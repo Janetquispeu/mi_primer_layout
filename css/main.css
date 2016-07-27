@@ -1,0 +1,206 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: white;
+}
+header{
+	width: 90%;
+	max-width: 1000px;
+	margin-left: 360px;
+	margin-top: 20px;
+}
+section{
+	width: 60%;
+	max-width: 1000px;
+	margin-left: 360px;
+	margin-top: 10px;
+}
+article{
+	margin-left: 0px;
+	margin-top: 20px;
+	clear: both;
+}
+nav{
+	width: 90%;
+	max-width: 1000px;
+	margin-left : 0px;
+	margin-top: 20px;
+}
+ul li{
+	font-family: verdana;
+	font-size: 16px;
+	padding: 0px 22px 0px 21px;
+	float: left;
+	margin-left: 3px;
+	border-right: 1px solid black;
+	display: inline-block;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+hr{
+	width: 50px;
+	height: 4px;
+	background-color: gray;
+	margin-top: 20px;
+	margin-left: 280px;
+}
+img{
+	width: 150px;
+	height: 150px;
+	margin: 0px;
+	position: relative;
+}
+.logo{
+	width: 600px;
+	height: 120px;
+	padding: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.menu{
+	width: 600px;
+	height: 50px;
+	padding: 14px 20px;
+	margin-left: 0px;
+	margin-top: 0px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.item-n{
+	border-right:none;
+}
+.grupal{
+	width: 600px;
+	height: 500px;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+.parrafo{
+	width: 400px;
+	height: 150px;
+	margin-left:100px;
+	margin-top:5px;
+	margin-bottom: 5px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+.padre{
+	width: 780px;
+	height: 1000px;
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.cuadrado{
+	width: 70px;
+	height: 5px;
+	background-color: black;
+	margin-top: 12px;
+}
+.container{
+	width: 100%;
+	height: 60%;
+	padding-top: 20px;
+}
+.profile{
+	display: inline-block;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+p{
+	color: white;
+	position: relative;
+	bottom: 30px;
+	left: 50px;
+	top: -24px;
+	font-size: 12px;
+}
+.coder{
+	width: 80%;
+	margin-left: 0px;
+}
+.opacity {
+    -webkit-filter: brightness(70%);
+}
+.profile .cuatro{
+	margin-bottom: 0px;
+}
+/*Estilos para la seccion 2 */
+.enlace_1{
+	color: white;
+	text-decoration: underline;
+
+}
+.section_2{
+	border: 2px solid gray;
+	width: 45%;
+	height: 1000px;
+	margin-left: 310px;
+}
+.sec_img1{
+	margin-left: 200px;
+	margin-top: 20px;
+	border-radius: 100%;
+}
+h2{
+	text-align: center;
+}
+h3{
+	margin-left: 10px;
+}
+.art_secc_1{
+	text-align: center;
+	width: 460px;
+	height: 200px;
+	margin-left: 46px;
+	font-size: 15px;
+}
+.formulario_html{
+	width: 420px;
+	height: 50px;
+	padding: 17px;
+	background-color: gray;
+	margin-left: 26px;
+	color: white;
+	margin-top: 24px;
+	margin-bottom: 28px;
+}
+.formulario_css{
+	width: 420px;
+	height: 50px;
+	padding: 17px;
+	background-color: gray;
+	margin-left: 26px;
+	color: white;
+	margin-top: 24px;
+	margin-bottom: 28px;
+}
+.formulario_js{
+	width: 420px;
+	height: 50px;
+	padding: 17px;
+	background-color: gray;
+	margin-left: 26px;
+	color: white;
+	margin-top: 24px;
+	margin-bottom: 28px;
+}
+.img_portafolio{
+	width: 160px;
+	height: 100px;
+	position: relative;
+	padding: 10px;
+}
+.portafolio{
+	display: inline-block;
+}
+.conteiner_1{
+	margin-left: 35px;
+	margin-top: 20px;
+}
